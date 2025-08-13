@@ -1,0 +1,1 @@
+# Arabic-ocr-mobile
